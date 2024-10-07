@@ -36,8 +36,3 @@ For the expression `"x * y + z**2"`, the computational graph will show:
    G = build_computational_graph(expression)
    visualize_graph(G)
    ```
-
-## Future Enhancements
-- Extend support for more complex mathematical operations (e.g., trigonometric functions, logarithms).
-- Enable interactive graph manipulation (zooming, node dragging).
-- Export the graph to standard formats (e.g., JSON, GraphML).
